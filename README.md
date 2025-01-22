@@ -1,0 +1,1 @@
+Solution example for StackOverflow [How to fix custom font-size added as inline HTML style in docx file generated using DOCX4J when embedding HTML content as altchunk?](https://stackoverflow.com/questions/79374324/how-to-fix-custom-font-size-added-as-inline-html-style-in-docx-file-generated-us/79374615?noredirect=1#comment139980702_79374615) question
